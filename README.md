@@ -5,3 +5,4 @@ more on push command
 out of date
 fetching new changes with fetch
 out of git
+learning about pull command
